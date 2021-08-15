@@ -1,5 +1,8 @@
 # BSC-IT-2-MID-TERM-PRACTICAL
 BSC(IT)2 MID TERM PRACTICAL
+Instagram account
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+
 <h1><B>NOTE</B></H2>
 <h2>Folder name should be formed by your name and University roll no in GitHub.</h2>
 <B><p align=justify>Do not forget to write your name University roll no in first page of your sheet and do sign each and every page
